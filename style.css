@@ -1,0 +1,82 @@
+body{
+  background-color: #F0EBCC;
+}
+.asd{
+
+  border-radius: 60px;
+}
+.first {
+  background-color: #F0EBCC;
+}
+.col{
+  font-size: 40px;
+  color:#9DF3C4;
+}
+a{
+  color:#D62AD0;
+}
+.engine {
+  border-style: solid;
+  border-spacing: 5%;
+  background-color: #9DF3C4;
+}
+.bar{
+  size:50px;
+}
+
+.e{
+  margin-top: 50px;
+
+
+  border-color: #D62AD0;
+}
+.d{
+  margin-top: 50px;
+
+  border-color: #D62AD0;
+}
+.second{
+  background-color: #766161;
+  padding-top:75px;
+  text-align: center;
+  border:solid  #D62AD0 5px;
+  font-family: fantasy;
+}
+.bing{
+  background-color: #cdc7be;
+  padding-top:75px;
+  text-align: center;
+  border:solid #D62AD0 15px;
+  font-family: fantasy;
+}
+.Yandex{
+  background-color: #B3E283;
+  padding-top:75px;
+  text-align: center;
+  border:solid #D62AD0 5px;
+  font-family: fantasy;
+}
+.baidu{
+  background-color: #9DF3C4;
+  padding-top:75px;
+  text-align: center;
+  border:solid #D62AD0 25px;
+  font-family: fantasy;
+}
+.yahoo{
+  background-color: #B3E283;
+  padding-top:75px;
+  text-align: center;
+  border:solid  #D62AD0 5px;
+  font-family: fantasy;
+}
+.main{
+  text-align: center;
+  text:black ;
+  height: 100px;
+}
+a:link {
+  color: #9DF3C4;
+  background-color: transparent;
+  text-decoration: none;
+}
